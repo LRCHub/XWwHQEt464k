@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ももいろの鍵 (2023 Live)",
+  "base_artist": "Tokyo Philharmonic Orchestra、SEKAI SYMPHONY SPECIAL BAND",
+  "createdAt": "2025-12-01T07:43:59.358805Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ももいろの鍵 (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/01_ももいろの鍵_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ももいろの鍵",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ",
+      "has_synced": true,
+      "path": "select/02_ももいろの鍵_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ももいろの鍵",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/03_ももいろの鍵_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ももいろの鍵 - The peachy key (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/04_ももいろの鍵_-_The_peachy_key_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ももいろの鍵 (feat. 花里みのり & 桐谷遥 & 桃井愛莉 & 日野森雫 & 巡音ルカ)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/05_ももいろの鍵_(feat._花里みのり_&_桐谷遥_&_桃井愛莉_&_日野森雫_&_巡音ルカ)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ももいろの鍵 (instrumental)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/06_ももいろの鍵_(instrumental)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ももいろの鍵",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_ももいろの鍵_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ももいろの鍵 (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_02_ももいろの鍵_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ももいろの鍵 (feat. 花里みのり, 桐谷遥, 桃井愛莉, 日野森雫 & 巡音ルカ)",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_03_ももいろの鍵_(feat._花里みのり,_桐谷遥,_桃井愛莉,_日野森雫_&_巡音ルカ)_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ももいろの鍵",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_04_ももいろの鍵_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ももいろの鍵",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_05_ももいろの鍵_初音ミク.txt"
+    }
+  ]
+}
